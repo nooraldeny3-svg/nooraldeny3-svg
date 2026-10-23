@@ -38,7 +38,7 @@
   <text class="t m" x="410" y="25" text-anchor="middle" font-size="13">nouraldin@github: ~</text>
 
   <g class="line l1"><text class="t" x="24" y="68"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> whoami</text></g>
-  <g class="line l2"><text class="t" x="24" y="94">Nouraldin Yasseen — Full-Stack Developer</text></g>
+  <g class="line l2"><text class="t" x="24" y="94">Nouralden Yasseen — Full-Stack Developer</text></g>
   <g class="line l3"><text class="t" x="24" y="128"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> cat stack.json</text></g>
   <g class="line l4"><text class="t" x="24" y="154">{ <tspan class="s">"frontend"</tspan>: [<tspan class="k">"React"</tspan>, <tspan class="k">"JavaScript"</tspan>, <tspan class="k">"Tailwind"</tspan>],</text></g>
   <g class="line l5"><text class="t" x="42" y="178"><tspan class="s">"backend"</tspan>:  [<tspan class="k">"Node.js"</tspan>, <tspan class="k">"Express"</tspan>, <tspan class="k">"PHP"</tspan>, <tspan class="k">"Laravel"</tspan>],</text></g>

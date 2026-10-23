@@ -1,16 +1,16 @@
 <!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ee787,50:79c0ff,100:d2a8ff&height=200&section=header&text=Nouraldin%20Yasseen&fontSize=52&fontColor=0d1117&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ee787,50:79c0ff,100:d2a8ff&height=200&section=header&text=Nouralden%20Yasseen&fontSize=52&fontColor=0d1117&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="header"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/nooraldeny3-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nouraldin+%F0%9F%91%8B;Full-Stack+Developer;React+%2B+Node.js+%2B+Laravel;Building+AI-powered+web+apps+%F0%9F%A4%96;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nouralden+%F0%9F%91%8B;Full-Stack+Developer;React+%2B+Node.js+%2B+Laravel;Building+AI-powered+web+apps+%F0%9F%A4%96;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nooraldeny3-svg&label=Profile%20views&color=79c0ff&style=flat-square" alt="profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nooraldeny3-svg.nooraldeny3-svg&left_text=Profile%20views&right_color=%2379c0ff" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/nooraldeny3-svg?label=Followers&style=flat-square&color=7ee787" alt="followers"/>
 </p>
 
@@ -86,9 +86,6 @@ Electronics e-commerce web app with categories, search, session cart, checkout, 
   <img src="https://streak-stats.demolab.com?user=nooraldeny3-svg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7EE787&fire=79C0FF&currStreakLabel=79C0FF" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nooraldeny3-svg&bg_color=0d1117&color=79c0ff&line=7ee787&point=d2a8ff&area=true&area_color=7ee787&hide_border=true" width="100%" alt="activity graph"/>
-</p>
 
 <!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
 <h2>🐍 Contribution Snake</h2>
